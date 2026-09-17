@@ -1,1 +1,1 @@
-# DuaaLab1
+# Duaa E-commerce Project
